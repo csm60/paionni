@@ -1569,7 +1569,7 @@
 	}
 
 	 .logo {
-	 	width: 200%;
+	 	
 	 	background-attachment: scroll;
 	 	background-position: center;
 	 	text-align:center;
@@ -1662,8 +1662,8 @@
 	}
 
 	h5 {
-		font-size: 0.9em;
-		line-height: 1.5em;
+		font-size: 15em;
+		line-height: 0em;
 	}
 
 	h6 {
@@ -2109,13 +2109,13 @@
 
 			.image.avatar:before {
 				display: none;
-				position-right:50px;
+				
 			}
 
 			.image.avatar img {
 			
-				width:200%;
-				margin-right: 100px;
+				
+				margin-right: 0px;
 				position: center;
 			}
 
